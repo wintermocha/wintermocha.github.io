@@ -1,3 +1,6 @@
 [submodule "themes/beautiful-hexo"]
 	path = themes/beautiful-hexo
 	url = https://github.com/twoyao/beautiful-hexo.git
+[submodule "themes/hexo-theme-even"]
+	path = themes/hexo-theme-even
+	url = https://github.com/ahonn/hexo-theme-even.git
