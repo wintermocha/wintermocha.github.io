@@ -64,8 +64,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-##theme: beautiful-hexo
-theme: hexo-theme-even
+theme: minos
+
+# Disqus
+disqus_shortname: wintermocha
+comments : true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
