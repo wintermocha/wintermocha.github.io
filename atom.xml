@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>blog</title>
+  <subtitle>Hello World</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wintermocha.github.io/"/>
+  <updated>2016-10-30T14:12:05.100Z</updated>
+  <id>https://wintermocha.github.io/</id>
+  
+  <author>
+    <name>Taewoo</name>
+    <email>dev@taewooo.kim</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wintermocha.github.io/hello-world/"/>
+    <id>https://wintermocha.github.io/hello-world/</id>
+    <published>2016-10-30T15:31:00.000Z</published>
+    <updated>2016-10-30T14:12:05.100Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/gallery/hello-world/hello-world.jpg" alt=""><br><a id="more"></a></p>
+<p>평범한 회사원의 개발 이야기.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/gallery/hello-world/hello-world.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="ETC" scheme="https://wintermocha.github.io/categories/ETC/"/>
+    
+    
+      <category term="Hello World" scheme="https://wintermocha.github.io/tags/Hello-World/"/>
+    
+  </entry>
+  
+</feed>
